@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 9-divide_and_rule
+echo $(($POWER / $DIVIDE))
