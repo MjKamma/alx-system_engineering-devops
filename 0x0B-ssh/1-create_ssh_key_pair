@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# bash ssh keygen script with but and passphrase
+ssh-keygen -t rsa -b 4096 -f school -N "betty"
