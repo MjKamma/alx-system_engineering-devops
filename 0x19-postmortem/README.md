@@ -1,5 +1,7 @@
 Incident Report/Postmortem
 
+#https://comic.browserling.com/extra-debugging.jpg
+
 Nginx Server Testing
 
 /home/Mjkamma/Downloads/overwhelmed.jpg
