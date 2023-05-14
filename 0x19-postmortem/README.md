@@ -1,6 +1,6 @@
 Incident Report/Postmortem
 
-![debug](#https://comic.browserling.com/extra-debugging.jpg)
+![Postmortem](https://comic.browserling.com/extra-debugging.jpg)
 
 Nginx Server Testing
 
